@@ -1,0 +1,1 @@
+"""Favouriate places: make a dictionary called favouriate places. Think of three names to use """ #task left for revisit solve other examples refresh your knowledge its for you
