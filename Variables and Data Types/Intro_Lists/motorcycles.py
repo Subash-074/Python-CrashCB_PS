@@ -18,7 +18,7 @@ print(motorcycles)
 del motorcycles[4]
 print(motorcycles)
 
-#removing items using pop method 
+#using items using pop method default is last one if we assign position then we can use desired object from list. 
 poped_motorcycles=motorcycles.pop()
 print(poped_motorcycles)
 
@@ -44,3 +44,9 @@ friends.remove(nautty_friend)
 print(friends)
 
 print(f"{nautty_friend.title()} was the nauttiest among my three closest friends.")
+
+motorcycles.append('crux')
+print(motorcycles)
+
+popy=motorcycles.pop()
+print(f'this is {popy}')
